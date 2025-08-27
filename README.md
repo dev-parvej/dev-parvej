@@ -56,7 +56,6 @@ I'm a passionate Senior Software Engineer with 8+ years of experience specializi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-parvej&show_icons=true&theme=radical" alt="Parvej's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-parvej&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
