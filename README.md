@@ -5,7 +5,7 @@
 [![Phone](https://img.shields.io/badge/Phone-%2B8801783508995-0077B5?style=flat&logo=telephone&logoColor=white)](tel:+8801783508995)
 [![Location](https://img.shields.io/badge/Location-Dhaka%2C%20BD-5865F2?style=flat&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Dhaka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parvej%20Ahammad-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-parvej/)
-[![Medium](https://img.shields.io/badge/Medium-%40yourprofile-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@parvej.code)
+[![Medium](https://img.shields.io/badge/Medium-%40parvej.code-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@parvej.code)
 
 ### 👋 Introduction
 I'm a passionate Senior Software Engineer with 8+ years of experience specializing in end-to-end development of high-performance, scalable SaaS platforms. I excel at transforming legacy monoliths into modern, efficient microservices architectures, significantly improving system reliability and developer productivity. I have a proven track record of leading engineering teams and delivering complex projects.
