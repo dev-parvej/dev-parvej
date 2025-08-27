@@ -14,7 +14,7 @@ I'm a passionate Senior Software Engineer with 8+ years of experience specializi
 
 ### 🛠️ Technologies & Skills
 
-**Languages:** `JavaScript`, `TypeScript`, `PHP`, `Node.js`, `Python`
+**Languages:** `JavaScript`, `TypeScript`, `PHP`, `Node.js`, `Golang`
 **Backend:** `NestJS`, `Express.js`, `Laravel`, `Microservices`, `REST APIs`, `Event-Driven Architecture (SQS/SNS)`
 **Frontend:** `React`, `Vue.js`, `Angular`, `NuxtJS`
 **Databases:** `PostgreSQL`, `MySQL`, `MongoDB`, `Redis`
